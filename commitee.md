@@ -6,14 +6,14 @@ permalink: /commitee/
 
 | **Patron**        | &nbsp; &nbsp;  |  **Organising Chairperson** |
 | :-----------------------:  |:------------: | :------------------:   |
-| ![404]({{site.baseurl}}/images/SANJAY-TYAGI.jpg){:height="200px" width="200px"} |    | ![404]({{site.baseurl}}/images/k.jpeg){:height="200px" width="200px"} |
+| ![404]({{site.baseurl}}/images/SANJAY-TYAGI.jpg){:height="180px" width="180px"} |    | ![404]({{site.baseurl}}/images/k.jpeg){:height="180px" width="180px"} |
 | Dr. Sanjay Tyagi |  | Dr. Kirti Nath Saxena |  
 
 |  |  |  |
 
 | **Organising Secretary**        |   &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; **Scientific Chairperson** | &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; **Finance Secretary**    |
 | :--------------:   | :-------------------: | :------------------:   |
-| ![404]({{site.baseurl}}/images/N.jpg){:height="200px" width="200px"} |   ![404]({{site.baseurl}}/images/S.jpeg){:height="200px" width="200px"}     | ![404]({{site.baseurl}}/images/V2.jpeg){:height="200px" width="200px"} |
+| ![404]({{site.baseurl}}/images/N.jpg){:height="180px" width="180px"} |   ![404]({{site.baseurl}}/images/S.jpeg){:height="180px" width="180px"}     | ![404]({{site.baseurl}}/images/V2.jpeg){:height="180px" width="180px"} |
 | Dr. Neelam Prasad |    Dr. Sonia    | Dr. Vandana |
 |  |  |  |
 
@@ -21,11 +21,11 @@ permalink: /commitee/
 
 | | |
 | :--------------:   | :-------------------: | 
-| ![404]({{site.baseurl}}/images/s.jpg){:height="200px" width="200px"} |  &nbsp;&nbsp; ![404]({{site.baseurl}}/images/kapil.jpg){:height="200px" width="200px"}     |
+| ![404]({{site.baseurl}}/images/s.jpg){:height="180px" width="180px"} |  &nbsp;&nbsp; ![404]({{site.baseurl}}/images/kapil.jpg){:height="180px" width="180px"}     |
 | Dr. Amit Kohli  |  Dr. Kapil Chaudhary     |  
 |  | | 
 
-|![404]({{site.baseurl}}/images/farah.jpg){:height="200px" width="200px"} | &nbsp;&nbsp; ![404]({{site.baseurl}}/images/sukh.jpg){:height="200px" width="200px"} |
+|![404]({{site.baseurl}}/images/farah.jpg){:height="180px" width="180px"} | &nbsp;&nbsp; ![404]({{site.baseurl}}/images/sukh.jpg){:height="180px" width="180px"} |
 |:----: | :-----: | 
 | Dr. Farah Husain | Dr. Sukhyanti Kerai |
 
