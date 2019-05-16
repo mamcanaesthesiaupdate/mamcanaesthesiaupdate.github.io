@@ -19,14 +19,15 @@ permalink: /commitee/
 
 ## Commitee Members
 
-| | | |
-| :--------------:   | :-------------------: | :------------------:   |
-| ![404]({{site.baseurl}}/images/s.jpg){:height="200px" width="200px"} |  &nbsp;&nbsp; ![404]({{site.baseurl}}/images/kapil.jpg){:height="200px" width="200px"}     | &nbsp;&nbsp;![404]({{site.baseurl}}/images/farah.jpg){:height="200px" width="200px"} |
-| Dr. Amit Kohli  |  Dr. Kapil Chaudhary     | Dr. Farah Husain |
-|  |  |  |
+| | |
+| :--------------:   | :-------------------: | 
+| ![404]({{site.baseurl}}/images/s.jpg){:height="200px" width="200px"} |  &nbsp;&nbsp; ![404]({{site.baseurl}}/images/kapil.jpg){:height="200px" width="200px"}     |
+| Dr. Amit Kohli  |  Dr. Kapil Chaudhary     |  
+|  | | 
 
-| | ![404]({{site.baseurl}}/images/sukh.jpg){:height="200px" width="200px"} | | 
-| | Dr. Sukhyanti Kerai | |
+|![404]({{site.baseurl}}/images/farah.jpg){:height="200px" width="200px"} | &nbsp;&nbsp; ![404]({{site.baseurl}}/images/sukh.jpg){:height="200px" width="200px"} |
+|:----: | :-----: | 
+| Dr. Farah Husain | Dr. Sukhyanti Kerai |
 
 
 |&nbsp;&nbsp; &nbsp; &nbsp; | **Team**  | |
