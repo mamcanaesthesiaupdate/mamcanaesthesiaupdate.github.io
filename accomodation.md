@@ -4,4 +4,3 @@ title: Accomodation
 permalink: /accomodation/
 ---
 
-### comming soon
