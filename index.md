@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-We are pleased to announce "MAMC Anaesthesia Update - PG Refresher course" to be held in Maulana Azad Medical College, New Delhi from 27th August to 2nd September 2019.Our effort is to provide quality preparation for postgraduate students appearing for MD, DNB and DA examination.  
+We are pleased to announce "MAMC Anaesthesia Update - PG Refresher course" to be held in Maulana Azad Medical College, New Delhi from 28th August to 1st September 2019.Our effort is to provide quality preparation for postgraduate students appearing for MD, DNB and DA examination.  
 Various topics in anaesthesia will be covered through didactics, live case discussion and table demonstrations by eminent faculty from teaching institutes across the country. With emphasis on practical knowledge and recent advances in anaesthesia, surely the couse will be unforgettable congress filled with academic feast.  
 We look forward to meet you at MAMC Anaesthesia update.
 
