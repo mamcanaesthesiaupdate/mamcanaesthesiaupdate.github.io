@@ -4,8 +4,7 @@ title: Registration
 permalink: /registration/
 ---
 
-Fee details:
-- Rs. 3000/-, (Extended till 7th July 2019) 
+Fee details: 
 - Rs. 3500/-, 8th July 2019 to 22nd August 2019.
 - Rs. 4000/-, on-spot registration.
 
