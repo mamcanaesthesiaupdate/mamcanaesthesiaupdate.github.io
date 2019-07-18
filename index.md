@@ -9,17 +9,12 @@ We are pleased to announce "MAMC Anaesthesia Update - PG Refresher course" to be
 Various topics in anaesthesia will be covered through didactics, live case discussion and table demonstrations by eminent faculty from teaching institutes across the country. With emphasis on practical knowledge and recent advances in anaesthesia, surely the course will be unforgettable congress filled with academic feast.  
 We look forward to meet you at MAMC Anaesthesia update.
 
-<!-- # Announcements: -->
-<!-- <div class="marquee">
-<p><strong>Entries are invited from interested institutions for quiz on 2nd September (Team Size:3)</strong>
-	<br>
-	<strong>Schedule has now been released</strong>
-	<br>
-	<strong><font color="red" size="2">NEW </font>On popular demand the registration date has been extended till 20th August 2018</strong>
-	<br>
-	<strong><font color="red" size="2">NEW </font>Delhi Medical Council Accreditation for 28 credit hours</strong></p>
-
-</div> -->
+# Website Updates:
+<div style="overflow-y: scroll;">
+<ul>
+    <li><strong><font color="red" size="2">NEW </font>For accomodation queries please contact Dr. Sukhyanti Kerai</strong></li>
+</ul>
+</div>
 
 # Highlights:
 1. Live discussions with eminent examiners.
