@@ -1,205 +1,257 @@
 ---  
-layout: page  
-title: Faculty  
-permalink: /faculty/  
----  
-
-### Coming Soon!
-
-<!-- Dr. U C Verma  
-Dir Prof & Ex- HOD, Anaesthesiology  
+layout: page   
+title: Faculty
+permalink: /faculty/    
+---
+Dr. U C Verma  
+Director Prof & Ex- HOD, Anaesthesiology  
 MAMC-Delhi  
-  
+
 Dr. J S Dali  
-Dir Prof, Anaesthesiology  
+Director Professor, Anaesthesiology  
 MAMC -Delhi  
   
 Dr. Poonam Bhadoria  
-Dir Prof &HOD, Anaesthesiology  
+Director Prof &HOD, Anaesthesiology  
 MAMC -Delhi  
-  
+   
 Dr. Rakesh Kumar   
 Dir Prof, Anaesthesiology  
 MAMC -Delhi  
   
-Dr. Kirti Nath Saxena.  
-Dir Prof, Anaesthesiology  
+Dr. Kirti Nath Saxena  
+Director Prof, Anaesthesiology  
 MAMC- Delhi  
-  
+ 
 Dr. Munisha Agarwal  
-Dir Prof, Anaesthesiology  
+Dir Prof, Anaesthesiology   
 MAMC-Delhi  
+ 
+Dr. C K Dua  |Director Prof & Ex HOD, Anaesthesiology   
+MAMC -Delhi  
+ 
+Dr Anjali Prakash   
+Dir Prof Radiology    
+MAMC -Delhi  
   
-Dr. C K Dua  
-Director Prof & Ex HOD, Anaesthesiology  
-MAMC  -Delhi  
-  
-Dr. Satender Gombar   
-Prof & HOD, Anaesthesiology  
+Dr. Satinder Gombar   
+Prof & HOD, Anaesthesiology   
 GMC -Chandigarh  
-  
-Dr. Monica Kohli  
+ 
+Dr. Monica Kohli   
 Professor, Anaesthesiology   
 KGMU-Lucknow  
-  
-Dr. Rajeev Uppal  
-Dir Prof & HOD, Anaesthesiology  
-G B pant Hospital  -Delhi  
-  
-Dr. Baljit Singh  
-Dir Prof , Anaesthesiology   
-G B Pant Hospital-Delhi  
-  
-Dr. Jayashree Sood  
-Chairperson Anesthesia and Perioperative Medicine  
-Sir Ganga Ram Hospital-Delhi  
-  
-Dr. Bimla Sharma  
-Vice-Chairperson, Anesthesia & Perioperative Medicine  
-Sir Ganga Ram Hospital-Delhi  
-  
-Dr. Sumit Ray  
-Vice Chairperson, Critical Care  
-Sir Ganga Ram Hospital-Delhi  
-  
-Dr. Shahla Haleem  
-Professor, Anaesthesiology  
-AMU-Aligarh  
-  
-Dr. Anoop Gogia  
-Professor, Anaesthesiology  
-Vardhman Mahavir Medical College -Delhi  
-  
-Dr. P K Verma   
-Professor, Anaesthesiology  
-Vardhman Mahavir Medical college –Delhi  
-  
-Dr. Rama Gogia  
-Professor & HOD   
-Vardhman Mahavir Medical college –Delhi  
-  
-Dr. Pawan Nayyar   
-Professor, Anaesthesiology  
-Vardhman Mahavir Medical college – Delhi  
-  
-Dr. Kamal Kumar Fotedar  
-Director, Anaesthesiology,  
-Max Super Speciality hospital   
-Saket-Delhi  
-  
-Dr.  Raj Tobin   
-Director & Head, Anaesthesiology  
-Max Super Speciality  hospital & Max Smart Super Speciality hospital  
-Saket-Delhi  
-  
+ 
+Dr. Jayashree Sood  |Chairperson Anesthesia and Perioperative Medicine   
+Sir Ganga Ram Hospital-Delhi   
+ 
+Dr. Bimla Sharma   
+Vice-Chairperson, Anesthesia & Perioperative Medicine   
+Sir Ganga Ram Hospital-Delhi   
+ 
+Dr. Sumit Ray   
+ 
+Dr. Anoop Gogia   
+Professor, Anaesthesiology   
+Vardhman Mahavir Medical College -Delhi   
+ 
+Dr. Rama Gogia   
+Professor    
+Vardhman Mahavir Medical college –Delhi   
+ 
+Dr. Smita Prakash    
+Professor    
+Vardhman Mahavir Medical college –Delhi   
+ 
+Dr. Kamal Kumar Fotedar   
+Director, Anaesthesiology   
+Max Super Speciality Hospital, Saket-Delhi  
+ 
+Dr. Raj Tobin  
+Director & Head, Anaesthesiology   
+Max Super Speciality hospital & Max Smart Super Speciality Hospital, Saket-Delhi |
+
 Dr. Mukul Chandra Kapoor  
 Director, Anaesthesiology   
-Max Smart Super Speciality Hospital-Delhi  
-  
-Dr.  Sunil Sinha   
-Dir Prof, Anaesthesiology  
-Lady Hardinge Medical College-Delhi  
-  
-Dr. Aruna Jain  
-Dir Prof , Anaesthesiology  
+Max Smart Super Speciality Hospital-Delhi   
+ 
+Dr. Pratibha Jain   
+HOD  
+Pt. JLNM-Raipur   
+ 
+Dr. Ajai Kumar   
+HOD Dir Prof   
 Lady Harding Medical college -Delhi   
-  
-Dr. Radhika Aggarwal  
-Dir Prof, Anaesthesiology  
-Lady Harding Medical college- Delhi  
-  
+ 
+Dr. Aruna Jain   
+Dir Prof , Anaesthesiology   
+Lady Harding Medical college -Delhi   
+ 
 Dr. Ranju Singh   
-Dir Prof, Anaesthesiology  
-Lady Harding Medical college-Delhi  
+Dir Prof, Anaesthesiology   
+Lady Harding Medical college-Delhi   
+ 
+Dr. Maitree Panday   
+Dir Prof, Anaesthesiology   
+Lady Hardinge Medical college-Delhi   
   
-Dr. Maitree Panday  
-Dir Prof, Anaesthesiology  
-Lady Hardinge Medical college-Delhi  
+Dr. Pramod Kohli   
+Dir Prof, Anaesthesiology   
+Lady Hardinge Medical college-Delhi   
   
 Dr. Ashok Saxena   
-Dir Prof &HOD, Anaesthesiology  
-University College of Medical Sciences- Delhi  
+Dir Prof &HOD, Anaesthesiology   
+University College of Medical Sciences- Delhi   
   
 Dr. Sujata Choudhary   
-Dir Prof, Anaesthesiology  
-University College of Medical Sciences- Delhi  
+Dir Prof, Anaesthesiology   
+University College of Medical Sciences- Delhi   
   
 Dr. Medha Mohta   
-Dir Prof, Anaesthesiology  
-University College of Medical Sciences- Delhi  
+Dir Prof, Anaesthesiology   
+University College of Medical Sciences- Delhi   
   
-Dr. Nandini Sharma  
-Dir Prof, PSM deptt   
-MAMC - Delhi  
-  
-Dr. Savita Saini  
-Professor & HOD, Anaesthesiology  
+Dr. Savita Saini   
+Professor & HOD, Anaesthesiology   
 PGIMS-Rohtak  
   
-Dr. Susheela Taxak   
-Professor, Anaesthesiology  
-PGIMS-Rohtak  
-  
-Dr.  Naveen Malhotra   
+Dr. Naveen Malhotra   
 Professor, Anaesthesiology   
-PGIMS-Rohtak  
+PGIMS-Rohtak   
   
-Dr. Manoj Bhardwaj  
-Senior Consultant, Anaesthesiology  
-Rajiv Gandhi Cancer Institute - Delhi  
+Dr. Manoj Bhardwaj   
+Senior Consultant, Anaesthesiology   
+Rajiv Gandhi Cancer Institute - Delhi   
   
-Dr. Anil Verma   
-Professor &HOD ,Anaesthesiology  
-GSVM-Kanpur  
+Dr. Sukanya Mitra   
+HOD, Professor   
+GMC Chandigarh   
   
-Dr. Reema Meena  
-Professor & HOD, Anaesthesiology  
-S M S Medical College -Jaipur  
+Dr. Manpreet Singh   
+Associate Prof   
+GMC Chandigarh   
   
-Dr. Chitra Chatterji  
-Consultant, Anaesthesiology  
-Apollo Hospital - Delhi  
+Dr. Chitra Chatterji   
+Consultant, Anaesthesiology   
+Apollo Hospital - Delhi   
   
 Dr. Rakesh Garg   
-Associate Professor, Anaesthesiology  
-IRCH, AIIMS - Delhi)  
+Associate Professor, Anaesthesiology   
+IRCH, AIIMS - Delhi   
   
 Dr. Divya Jain   
-Associate Professor, Anaesthesiology  
-Post Graduate Institute of Medical Education and Research- Chandigarh  
+Additional Professor, Anaesthesiology   
+Post Graduate Institute of Medical Education and Research- Chandigarh   
   
-Dr. Radhika Batra   
-Assistant Professor, Radiology  
-MAMC – Delhi  
+Dr. Nidhi Bhatia    
+Additional Professor, Anaesthesiology   
+Post Graduate Institute of Medical Education and Research- Chandigarh   
   
-Dr. Veena Asthana  
-Professor ,HOD ,Anaesthesiology  
+Dr. Veena Asthana   
+Professor ,HOD - Anaesthesiology   
 HIMS-Dheradun  
   
-Dr. Sanjay Agarwal  
-Professor,Anaesthesilogy  
-AIIMS Rishikesh  
+Dr. Sanjay Agarwal   
+Professor,Anaesthesiology   
+AIIMS Rishikesh   
   
-Dr. Preeti Varshnay  
-Assistant Professor, Anaesthesiology  
+Dr. Suman lata Gupta    
+Additional Professor   
+JIPMER-Puducherry   
+  
+Dr. Ruchi Gupta   
+Professor    
+SRDIMSR Amritsar   
+  
+Dr. Preeti Varshnay   
+Assistant Professor, Anaesthesiology   
 Lady Harding Medical College - Delhi   
   
-Dr. Anju Gupta  
-Assistant Professor, Anaesthesiology  
-VMMC-Delhi  
+Dr. Anju Gupta   
+Assistant Professor, Anaesthesiology   
+VMMC-Delhi   
   
-Dr. Nishkarh Gupta  
-Associate Professor, Anaesthesiology  
+Dr. Nishkarh Gupta   
+Associate Professor, Anaesthesiology   
 IRCH, AIIMS-Delhi   
   
 Dr. Garima Agarwal   
 Assistant Professor, Anaesthesiology   
-Lady Hardinge Medical College -Delhi  
+Lady Hardinge Medical College -Delhi   
   
+Dr. Preety Thakur   
+Assistant Professor   
+Vardhman Mahavir Medical college –Delhi   
   
-     
+Dr. Uma  Hariharan   
+Associate Professor   
+RML-Delhi   
   
+Dr. Akhilesh Gupta   
+Associate Professor   
+RML-Delhi   
   
+Dr. Deepti Saigal   
+Associate Professor   
+Vardhman Mahavir Medical college –Delhi   
   
+Dr. Preeti Thakur   
+Assistant Professor   
+Vardhman Mahavir Medical college –Delhi   
   
-   -->
+Dr. RK Batra   
+Ex- Head, HOD and Prof    
+AIIMS Delhi   
+  
+Dr. Anjolie Chabbra   
+Professor AIIMS-Delhi   
+  
+Dr. Nishant Sahay   
+Professor  
+AIIMS – Patna   
+  
+Dr. Col. Monish Nakra   
+HOD of Critical Care   
+Venkateshwara Hospital   
+  
+Dr. Sunil Arora   
+ 
+MAMC LNJP   
+  
+Dr. Rakesh Karnawat  
+  
+SN Medical College Jodhpur   
+  
+Dr. Anil Mishra   
+ 
+LNJP   
+  
+Dr. Geetanjali Chikoti   
+Professor   
+GTB Delhi   
+  
+Dr. Roshni Roy   
+Professor   
+Sitaram Bhartia Hospital, New Delhi   
+  
+Dr. Megha Kohli   
+Consultant   
+ILBS, New Delhi   
+  
+Dr. Sangeeta Yadav   
+Assosiate Professor   
+RML,  New Delhi   
+  
+Dr. Sangeeta Khanna   
+Director & HOD   
+Medanta, Gurugram   
+  
+Dr. Pragarti Ganjoo   
+Director Professor   
+GB Pant – New Delhi   
+  
+Dr. Geeta Shahi   
+HOD   
+Haldwani Govt. Medical College, Uttrakhand   
+  
+
