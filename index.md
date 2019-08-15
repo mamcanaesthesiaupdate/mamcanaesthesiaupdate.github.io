@@ -12,7 +12,8 @@ We look forward to meet you at MAMC Anaesthesia update.
 # Website Updates:
 <div style="overflow-y: scroll;">
 <ul>
-    <li><strong><font color="red" size="2">NEW </font>For accomodation queries please contact Dr. Sukhyanti Kerai</strong></li>
+    <li><strong><font color="red" size="2">NEW </font>Please note that the schedule has been now been released.</strong></li>
+    <li><strong>For accomodation queries please contact Dr. Sukhyanti Kerai.</strong></li>
 </ul>
 </div>
 
