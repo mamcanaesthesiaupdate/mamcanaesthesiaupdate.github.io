@@ -38,10 +38,6 @@ Dr. Satinder Gombar
 Prof & HOD, Anaesthesiology   
 GMC -Chandigarh  
  
-Dr. Monica Kohli   
-Professor, Anaesthesiology   
-KGMU-Lucknow  
- 
 Dr. Jayashree Sood  |Chairperson Anesthesia and Perioperative Medicine   
 Sir Ganga Ram Hospital-Delhi   
  
@@ -146,11 +142,7 @@ Post Graduate Institute of Medical Education and Research- Chandigarh
 Dr. Nidhi Bhatia    
 Additional Professor, Anaesthesiology   
 Post Graduate Institute of Medical Education and Research- Chandigarh   
-  
-Dr. Veena Asthana   
-Professor ,HOD - Anaesthesiology   
-HIMS-Dheradun  
-  
+
 Dr. Sanjay Agarwal   
 Professor,Anaesthesiology   
 AIIMS Rishikesh   
