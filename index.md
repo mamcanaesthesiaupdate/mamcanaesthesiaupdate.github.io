@@ -4,6 +4,7 @@ title:
 permalink: /
 ---
 
+<span style="color:red">Due to the COVID-19 pandemic, we are sad to annouce that MAMC Anaesthesia Update 2020 is cancelled until further notice.</span>
 
 We are pleased to announce "MAMC Anaesthesia Update - PG Refresher course" to be held in Maulana Azad Medical College, New Delhi from 28th August to 1st September 2019.Our effort is to provide quality preparation for postgraduate students appearing for MD, DNB and DA examination.  
 Various topics in anaesthesia will be covered through didactics, live case discussion and table demonstrations by eminent faculty from teaching institutes across the country. With emphasis on practical knowledge and recent advances in anaesthesia, surely the course will be unforgettable congress filled with academic feast.  
@@ -12,6 +13,7 @@ We look forward to meet you at MAMC Anaesthesia update.
 # Website Updates:
 <div style="overflow-y: scroll;">
 <ul>
+    
     <li><strong>Please note that the schedule has been now been released.</strong></li>
     <li><strong>For accomodation queries please contact Dr. Sukhyanti Kerai.</strong></li>
 </ul>
