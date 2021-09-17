@@ -4,18 +4,21 @@ title:
 permalink: /
 ---
 
-<span style="color:red">Due to the COVID-19 pandemic, we are sad to annouce that MAMC Anaesthesia Update 2020 is cancelled until further notice.</span>
+It is a pleasure for Department of Anaesthesia MAMC to welcome you for its 3rd MAMC Anaesthesia Update 2022 after a year gap due to the pandemic, this programme had been popular among postgraduate student all over country. Next year we plan to hold this event on 1st February to 5th February 2022. 
 
-We are pleased to announce "MAMC Anaesthesia Update - PG Refresher course" to be held in Maulana Azad Medical College, New Delhi from 28th August to 1st September 2019.Our effort is to provide quality preparation for postgraduate students appearing for MD, DNB and DA examination.  
-Various topics in anaesthesia will be covered through didactics, live case discussion and table demonstrations by eminent faculty from teaching institutes across the country. With emphasis on practical knowledge and recent advances in anaesthesia, surely the course will be unforgettable congress filled with academic feast.  
-We look forward to meet you at MAMC Anaesthesia update.
+Our belief is that online webinar cannot replace personal interaction of physical event, which discouraged us to hold this mega event during pandemic, hence department of anaesthesia will hold the conference in person. 
+In case of surge of COVID we might have to restrict physical presence and hold it online mode, also full refund will be made if COVID forces cancellation of event.
+
+Our effort will be to provide quality prepration for postgraduate students appearing for MD, DNB & DA. Various topics in anaesthesia will be covered through Didactics, live case discussions, table demonstrations by eminent faculty from teaching institute across the country with emphasis on practical knowledge and recent advances in anaesthesia. Surely the course will be unforgettable congress filled with academic event.
+
+We look forward to meet you at MAMC ANAESTHESIA UPDATE 2022 keep logging in for new updates. 
+
 
 # Website Updates:
 <div style="overflow-y: scroll;">
 <ul>
     
-    <li><strong>Please note that the schedule has been now been released.</strong></li>
-    <li><strong>For accomodation queries please contact Dr. Sukhyanti Kerai.</strong></li>
+    <li><strong>Registrations will start soon</strong></li>
 </ul>
 </div>
 

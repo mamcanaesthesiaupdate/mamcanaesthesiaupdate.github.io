@@ -3,7 +3,11 @@ layout: page
 title: Faculty
 permalink: /faculty/    
 ---
-Dr. U C Verma  
+
+
+*Coming soon*
+
+<!-- Dr. U C Verma  
 Director Prof & Ex- HOD, Anaesthesiology  
 MAMC-Delhi  
 
@@ -246,4 +250,4 @@ Dr. Geeta Shahi
 HOD   
 Haldwani Govt. Medical College, Uttrakhand   
   
-
+ -->

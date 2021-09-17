@@ -3,8 +3,10 @@ layout: page
 title: Registration
 permalink: /registration/
 ---
+*Coming Soon*
 
-Fee details: 
+
+<!-- Fee details: 
 - ~~Rs. 3500/-, 8th July 2019 to 22nd August 2019.~~
 - Rs. 4000/-, on-spot registrations.
 
@@ -16,4 +18,4 @@ Pay at:
 
 ##### After payment fill the registration details [here](https://docs.google.com/forms/d/e/1FAIpQLScACQzIlqV5JNsssZbs-p8T8oNE6YjUfxY3ujqVgUpxxXHlug/viewform){:target="_blank"} we will contact you after your registration is confirmed.  
 
-##### Please also send a snapshot of the reciept to [mamcanaesthesiaupdate2019@gmail.com](mailto:mamcanaesthesiaupdate2019@gmail.com) after payment
+##### Please also send a snapshot of the reciept to [mamcanaesthesiaupdate2019@gmail.com](mailto:mamcanaesthesiaupdate2019@gmail.com) after payment -->
