@@ -11,8 +11,9 @@ permalink: /commitee/
 
 |  |  |  | -->
 
-| **Patron**        |  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; **Patron** | &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; **Organising Chairperson**    |
+| **Patron**         |  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; **Patron** | &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; **Organising Chairperson**    |
 | :--------------:   | :-------------------: | :------------------:   |
+| ![404]({{site.baseurl}}/images/dean.png){:height="160px" width="160px"} |   &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;![404]({{site.baseurl}}/images/suresh.png){:height="160px" width="160px"}     | ![404]({{site.baseurl}}/images/kirtinath.png){:height="160px" width="160px"} |
 | Dr. Ritu Arora |  &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;  Dr. Suresh Kumar   | &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; Dr. Kirti Nath Saxena |
 |  |  |  |
 
@@ -24,13 +25,24 @@ permalink: /commitee/
 |  |  |  |
 
 
+### Committee members
 
-<!-- |&nbsp;&nbsp; &nbsp; &nbsp; | **Team**  | |
+|        |    |   |
+| :--------------:   | :-------------------: | :------------------:   |
+| ![404]({{site.baseurl}}/images/amit.png){:height="160px" width="160px"} |   ![404]({{site.baseurl}}/images/sukh.jpg){:height="160px" width="160px"}     | ![404]({{site.baseurl}}/images/farah.jpg){:height="160px" width="160px"} |
+| Dr Amit Kohli (Assosiate Professor)  |    Dr Farah Hussain (Specialist)  |  Dr Farah Hussain (Specialist) |
+| ![404]({{site.baseurl}}/images/rahil.jpeg){:height="160px" width="160px"} |   |  |
+| Dr Rahil Singh (Assosiate Professor) |  |  |
+
+
+|&nbsp;&nbsp; &nbsp; &nbsp; | **Team**  | |
 | :--------------: | :-------------------: | :------------------: |
-|Dr. Munisha Agarwal &nbsp;&nbsp; &nbsp; &nbsp; | Dr. Kavita Sharma | Dr. Anju Bhalotra |
-| Dr. Lalita Chaudhary | Dr. Bharti Taneja| Dr. Mona Arya|
-| Dr. Lalit Gupta | Dr. Rahil Singh| Dr. Mishra | 
-| Dr. Sunil Arora |  Dr. Anjali Sethi | Dr. Anil Mishra|
-| Dr. Neera Rani |Dr. Prachi Gaba| Dr. Gunjan Manchanda| 
-| Dr. Asheem Gupta |Dr. Rohit Gupta |Dr. Umesh Chand |
-|Dr. Rajni Arora |  -->
+| Dr Mona Arya  | Dr Kapil Chaudhary | Dr Lalit Gupta |
+| Dr Rohit Baliyan | Dr Arjun Nair | Dr  Ayushi Mahajan |
+| Dr Shubhangi  Sharma | Dr Shanta Datta | Dr Snigdha |
+| Dr Anjali Sethi | Dr Neera Gupta | Dr Gunjan Manchanda |
+| Dr Prachi Gabba | Dr Rohit Gupta | Dr Rajini Arora |
+| Dr Umesh verma | Dr Vikas Bansal | Dr Preeti Labani |
+| Dr Nahida Saleem | Dr Anuradha Bansal | Dr Divya Ghalot |
+| Dr Ruchi Kumari | |
+
