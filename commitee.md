@@ -30,7 +30,7 @@ permalink: /commitee/
 |        |    |   |
 | :--------------:   | :-------------------: | :------------------:   |
 | ![404]({{site.baseurl}}/images/amit.png){:height="160px" width="160px"} |   ![404]({{site.baseurl}}/images/sukh.jpg){:height="160px" width="160px"}     | ![404]({{site.baseurl}}/images/farah.jpg){:height="160px" width="160px"} |
-| Dr Amit Kohli (Assosiate Professor)  |    Dr Farah Hussain (Specialist)  |  Dr Farah Hussain (Specialist) |
+| Dr Amit Kohli (Assosiate Professor)  |    Dr Sukhyanti Kerai (Assistant Professor)  |  Dr Farah Hussain (Specialist) |
 | ![404]({{site.baseurl}}/images/rahil.jpeg){:height="160px" width="160px"} |   |  |
 | Dr Rahil Singh (Assosiate Professor) |  |  |
 
