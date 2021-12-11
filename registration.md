@@ -7,8 +7,8 @@ permalink: /registration/
 
 
 Fee details: 
-- Rs. 5000 (till 10th January 2022)
-- Rs 5500(till 25th January 2022)
+- Rs. 4500 (till 20th December 2021)
+- Rs. 5000 (till 28th January 2022)
 - Rs 6000 (on-spot registration)
 
 Pay at:

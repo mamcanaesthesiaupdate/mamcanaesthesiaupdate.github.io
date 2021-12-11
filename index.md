@@ -21,7 +21,7 @@ Updates will follow shortly.
 # Website Updates:
 <div style="overflow-y: scroll;">
 <ul>
-    <li><strong>Registrations will start soon</strong></li>
+    <li><strong>Registrations started!!!</strong></li>
 </ul>
 </div>
 
