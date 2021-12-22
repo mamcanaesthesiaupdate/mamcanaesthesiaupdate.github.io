@@ -21,7 +21,8 @@ Updates will follow shortly.
 # Website Updates:
 <div style="overflow-y: scroll;">
 <ul>
-    <li><strong>Registrations started!!!</strong></li>
+    <li><strong>Early bird registrations extended!!!</strong></li>
+    <li>Registrations started</li>
 </ul>
 </div>
 
