@@ -4,17 +4,12 @@ title:
 permalink: /
 ---
 
-Department of Anaesthesia, MAMC welcomes you to the **MAMC Anaesthesia Update 2022** after an unavoidable break due to the COVID PANDEMIC. This programme has been popular among the postgraduate students from all over the country making the last two Updates a resounding success. We plan to hold this event between 1st to 5th February 2022. 
+It is a pleasure for the Department of Anaesthesia, MAMC  to welcome you for its 3rd MAMC Anaesthesia Update. We are holding this event between 1st February to 5th february 2022. This program has been popular among postgraduate students from all over our country. Our initial endeavor was to organize it in the offline mode. However, with the recent sudden surge in COVID cases and the subsequent government guidelines for the same, it will now be conducted **ONLINE**.
 
-Our belief is that the online webinar cannot replace the physical event with personal interaction, which discouraged us to hold this mega event during the pandemic in 2020-2021. Hence, the department of Anaesthesia, MAMC looks forward to holding the 3rd Update in the offline mode. 
+Our effort will be to provide quality preparation for postgraduate students appearing for MD, DNB &DA examination. Various topics in anaesthesia will be covered by eminent faculty through didactics, live case discussions, demonstrations of commonly asked equipments in viva voce with emphasis on practical knowledge and recent advances. This academic event will be an enriching experience.
+We look forward to your participation at the 'MAMC ANAESTHESIA UPDATE 2022'
+Log in for new updates.
 
-In case of surge of COVID cases we might have to restrict physical presence for the update and hold it in the online mode. If COVID surge forces cancellation of the event full refund will be made.
-
-Our effort will be to provide quality preparation for postgraduate students appearing for the MD, DNB & DA exams. Wide variety of topics in anaesthesia will be covered through didactics, live case discussions, table demonstrations by eminent faculty from Teaching Institutes across the country with emphasis on practical knowledge, newer assessment modalities and recent advances in anaesthesia. Surely, the course will be enriching and an academic feast.
-
-We look forward to meeting you at the MAMC ANAESTHESIA UPDATE 2022.
-
-Updates will follow shortly.
 
 #### [Download Brochure]({{ site.baseurl }}{% link /documents/brochure.jpeg %}){:target="_blank"}
 

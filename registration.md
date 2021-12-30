@@ -7,10 +7,7 @@ permalink: /registration/
 
 
 Fee details: 
-- Rs. 4500 (till 30th December 2021)
-- Rs. 5000 (till 28th January 2022)
-- Rs 6000 (on-spot registration)
-
+- Rs. 3000 (till 28th January 2022)
 Pay at:
 - Bank           - Canara Bank
 - Account Number - 90682010134614
