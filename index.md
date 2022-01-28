@@ -17,8 +17,7 @@ Log in for new updates.
 # Website Updates:
 <div style="overflow-y: scroll;">
 <ul>
-    <li><strong>Early bird registrations extended!!!</strong></li>
-    <li>Registrations started</li>
+    <li>Last day of registrations 31st January 2022</li>
 </ul>
 </div>
 
