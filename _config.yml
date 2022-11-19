@@ -6,7 +6,7 @@
 name: MAMC Anaesthesia Update
 
 # Short bio or description (displayed in the header)
-description: P.G. Refresher Course (1st Feburary - 5th Feburary 2022)
+description: P.G. Refresher Course (31st January - 3rd Feburary 2023)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://upload.wikimedia.org/wikipedia/en/4/43/Maulana_Azad_Medical_College_logo.svg
@@ -18,7 +18,7 @@ avatar: https://upload.wikimedia.org/wikipedia/en/4/43/Maulana_Azad_Medical_Coll
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: mamcanaesthesiaupdate2019@gmail.com
+  email: mamcanaesthesiaupdate@gmail.com
   facebook:
   flickr:
   github:
@@ -73,7 +73,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-plugins:
+plugins_dir:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
@@ -84,3 +84,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - vendor
