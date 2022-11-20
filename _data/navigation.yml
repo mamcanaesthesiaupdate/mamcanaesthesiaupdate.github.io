@@ -1,0 +1,12 @@
+# main links links
+main:
+  - title: "Committee"
+    url: /committee
+  - title: "Faculty"
+    url: /faculty
+  - title: "Registration"
+    url: /registration
+  - title: "Schedule"
+    url: /schedule
+  # - title: "About"
+  #   url: /about
