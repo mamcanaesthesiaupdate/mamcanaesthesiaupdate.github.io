@@ -2,3 +2,5 @@ _site/
 .vendor/
 .bundle/
 vendor/
+.DS_Store
+
