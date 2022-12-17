@@ -5,7 +5,7 @@ permalink: /registration
 
 
 Fee details: 
-- Rs. 5000 (till 15th December 2022)
+- Rs. 6000 (till 30th January 2023)
 
 Pay at:
 - Bank           - Canara Bank
