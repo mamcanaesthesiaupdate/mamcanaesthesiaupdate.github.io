@@ -269,16 +269,17 @@ defaults:
       toc: true
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
+      show_date: true
       comments: # true
-      related: true
+      related: false
       
   # _pages
   - scope:
       path: ""
       type: pages
     values:
-      toc: true
+      toc: false
       layout: single
       author_profile: true
 
