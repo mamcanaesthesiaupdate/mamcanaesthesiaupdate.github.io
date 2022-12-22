@@ -106,8 +106,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://mamcanaesthesiaupdate.com"
-    # - label: "CV"
-    #   icon: "fas fa-fw fa-file-pdf"
+    - label: "Brochure"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/documents/poster.pdf"
 
 
 
