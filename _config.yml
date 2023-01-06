@@ -267,7 +267,7 @@ defaults:
       path: ""
       type: posts
     values:
-      toc: true
+      toc: false
       layout: single
       author_profile: true
       read_time: false
