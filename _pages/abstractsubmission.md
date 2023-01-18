@@ -24,4 +24,4 @@ permalink: /abstract
 
 Please note, the scientific committee reserves the right to decide on the final topic assignment upon abstract submission.
 
-[Click here to submit the abstract](https://docs.google.com/forms/d/1ICAnVh1YTsHBhdVnj_Q02vbWPRjpHUss-v5hHYdjONA/viewform?edit_requested=true){: .btn .btn--success}
+[Click here to submit the abstract](https://docs.google.com/forms/d/1ICAnVh1YTsHBhdVnj_Q02vbWPRjpHUss-v5hHYdjONA/viewform){: .btn .btn--success}
