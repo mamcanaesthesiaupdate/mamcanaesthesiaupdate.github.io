@@ -1,6 +1,11 @@
 ## Accomodations
 
-Some accomodations near MAMC: 
+### For more details on accomodation contact: 
+
+Dr. K Midun - +91 8860559693
+Dr. Sukyanti Kerai - +91 9968527122
+
+### Some accomodations near MAMC: 
 
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none">
