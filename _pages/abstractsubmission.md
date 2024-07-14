@@ -3,7 +3,7 @@ title: Abstract
 permalink: /abstract
 ---
 
-## Guidelines for abstract for abstract submission
+<!-- ## Guidelines for abstract for abstract submission
 
 1. Original research article/Case report will be considered for presentation.
 2. Abstract (<250words) should be submitted in English language as a word document in 'Times Roman' font, font size 12, with double spacing.
@@ -24,4 +24,4 @@ permalink: /abstract
 
 Please note, the scientific committee reserves the right to decide on the final topic assignment upon abstract submission.
 
-[Click here to submit the abstract](https://docs.google.com/forms/d/1ICAnVh1YTsHBhdVnj_Q02vbWPRjpHUss-v5hHYdjONA/viewform){: .btn .btn--success}
+[Click here to submit the abstract](https://docs.google.com/forms/d/1ICAnVh1YTsHBhdVnj_Q02vbWPRjpHUss-v5hHYdjONA/viewform){: .btn .btn--success} -->
