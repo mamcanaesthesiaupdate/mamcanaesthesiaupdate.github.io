@@ -9,4 +9,4 @@ main:
   - title: "Faculty"
     url: /faculty
   - title: "Schedule"
-    url: /assets/documents/schedule.pdf
+    url: /schedule
