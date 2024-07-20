@@ -5,13 +5,13 @@ permalink: /committee
 
 | Dr. Poonam Narang | Dr. Suresh Kumar | 
 | :--: | :--: | 
-| ![](/assets/images/committee/kirtinath.png){:height="200px" width="200px"} | 
+|  | 
 | Patron |  Patron | 
 
 | Dr. Munisha Aggarwal | Dr. Neelam Prasad |  Dr. Sonia Wadhawan | Dr. Sukyanti Kerai | 
 | :-----:  |:----:|:----:|:----:|
 | ![](/assets/images/committee/munisha.jpeg){:height="256px" width="256px"}  | ![](/assets/images/committee/Neelam.jpeg){:height="256px" width="256px"} | ![](/assets/images/committee/soniawadhawan.jpeg){:height="256px" width="256px"} | ![](/assets/images/committee/sukhyanti.jpeg){:height="128" width="256px"} | 
-| Organising Chairperson | Organising Secretary | Scientific Chairperson | Finance Secretary | 
+| Organising Chairperson (HOD) | Organising Secretary | Scientific Chairperson | Finance Secretary | 
 
 
 | Dr. Amit Kohli | Dr. Kapil Chaudhary |  Dr. Lalit Gupta |  
