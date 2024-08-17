@@ -4,4 +4,4 @@ permalink: /committee
 ---
 
 
-<img src="/assets/images/committee/collage.png" alt="Flyer" style="width:100%">
+<img src="/assets/images/committee/collage.png" alt="Flyer" style="width:95%">
