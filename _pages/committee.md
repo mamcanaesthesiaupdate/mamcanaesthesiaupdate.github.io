@@ -3,11 +3,6 @@ title: Committee
 permalink: /committee
 ---
 
----
-title: Committee
-permalink: /committee
----
-
 
 | Dr. Poonam Narang | Dr. Suresh Kumar | 
 | :--: | :--: | 
