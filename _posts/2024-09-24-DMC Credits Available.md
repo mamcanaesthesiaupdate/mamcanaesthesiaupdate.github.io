@@ -1,4 +1,4 @@
-## DMC Credits Available! 
+## DMC Credits Available!
 
 Dear Delegates, 
 
