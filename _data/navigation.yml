@@ -10,3 +10,5 @@ main:
     url: /faculty
   - title: "Schedule"
     url: /schedule
+  - title: "Abstract"
+    url: /abstract
