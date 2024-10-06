@@ -342,3 +342,5 @@ Drugs C: Emergency drugs, Local anaesthetics, Alpha 2 agonist</td>
 <td id="Table 1!E81" style="border-bottom: none;border-collapse: collapse;border-left: none;border-right: none;border-top: none;color: #000000;font-size: 12.0px;height: 16.0pt;text-align: left;vertical-align: top">&nbsp;</td>
 </tr>
 </table>
+
+<img src="/assets/images/committee/collage.png" alt="Flyer" style="width:95%">
