@@ -19,7 +19,7 @@ permalink: /abstract
 * Case presentation
 * Conclusion
 5. Maximum of 3 most relevant references may be included. Maximum number of author up to 6 
-6. Last date of submission of abstract is 30th Sept 2024
+6. Last date of submission of abstract is 12th October 2024
 7. **Eligibility criteria: Students registered for MAMC Anaesthesia Update - 2024**
 
 Please note, the scientific committee reserves the right to decide on the final topic assignment upon abstract submission.
