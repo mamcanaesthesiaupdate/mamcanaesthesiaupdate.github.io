@@ -6,7 +6,7 @@ permalink: /registration
 
 Fee details: 
 - ~~Rs. 8000 (till 25th August 2024)~~ 
-- Rs. 10000 (till 10th October 2024)
+- Rs. 10000 (till ~~10th~~12th October 2024)
 - Rs. 12000 (spot registration)
 
 After payment **fill the registration details** [here](https://forms.gle/7fT3moCxR5SEMQwz8){:target="_blank"} we will contact you after your registration is confirmed.
