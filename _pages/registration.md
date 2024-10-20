@@ -3,7 +3,7 @@ title: Registration
 permalink: /registration
 ---
 
-
+<!--
 Fee details: 
 - ~~Rs. 8000 (till 25th August 2024)~~ 
 - Rs. 10000 (till ~~10th~~12th October 2024)
@@ -18,7 +18,7 @@ Please also **send a snapshot of the reciept** to [mamcanaesthesiaupdate@gmail.c
 |![UPI](/assets/banking/UPI_Transfer.jpeg){:width="384px"} | **Bank**: Canara Bank <br> **Account Number**: 90682010134614 <br> **Account Name**: MAMC ANAESTHESIA UPDATE <br> **IFSC Code**: CNRB0019068   | 
  
 
-<!-- 
+ 
 ### Pay using UPI: 
   ![UPI](/assets/banking/UPI_Transfer.jpeg)
 
